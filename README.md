@@ -79,9 +79,12 @@ Full-stack SaaS marketplace with real-time messaging, crypto payments, notificat
 B2B marketplace for video editors and streamers with automatic TRON blockchain detection, crypto payments, and a full admin dashboard.
 **Live:** [cliporea.com](https://www.cliporea.com/en)
 
-### 🔹 Malware Detection System — PE File & Document Analysis
-Security tool that analyzes PE files and documents to detect malicious software.
-**Stack:** Python, machine learning, static analysis
+### 🔹 [Malware Detection System](https://github.com/KnightMaresss/Malware-Detection) — AI-Powered Threat Scanner
+A full-stack malware analysis platform that combines a custom Machine Learning model with VirusTotal's multi-engine analysis.
+- **Architecture:** React frontend, Node.js backend, and a Python FastAPI ML microservice.
+- **AI:** Custom LightGBM classifier trained on the EMBER 2018 dataset (95.5% accuracy, 0.99 ROC-AUC) with Explainable AI feature extraction.
+- **Security:** JWT authentication, strict file validation, and cryptographically signed webhooks between Node and Python.
+- **Premium UI:** Sleek dark-mode SaaS interface built with Tailwind CSS and Framer Motion.
 
 ---
 
