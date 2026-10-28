@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Waleed (KnightMares)
 
+![Profile Views](https://komarev.com/ghpvc/?username=KnightMaresss&color=blue&style=flat)
+
 **Full-stack developer & ML engineer** building complete systems from scratch — web platforms, machine learning models, and cybersecurity tools.
 
 ---
